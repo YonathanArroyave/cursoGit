@@ -28,6 +28,13 @@ body
     text-align: center;
     border: 1px solid red;
 }
+
+#container h2
+{
+    font-size: 30px;
+    text-align: center;
+    border: 2px;
+}
 #cabecera
 {
     text-align: center;
