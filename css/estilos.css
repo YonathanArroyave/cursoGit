@@ -21,6 +21,13 @@ body
     font-size: 20px;
     text-align: left;
 }
+
+#container h2
+{
+    font-size: 30px;
+    text-align: center;
+    border: 2px;
+}
 #cabecera
 {
     text-align: center;
